@@ -33,6 +33,7 @@ node_modules/
 tmp/
 temp/
 $RECYCLE.BIN/
+secrets/
 
 # IDE - VSCode
 .vscode/*
