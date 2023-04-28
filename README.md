@@ -39,7 +39,7 @@ Create your .env file and add the Postgres Database URL config
   postgresql://USER:PASSWORD@HOST:PORT/DATABASE
 ```
 
-Run the following command and it will automatically create the tables for your based on the schema.prisma file provided
+Run the following command and it will automatically create the tables for your database based on the schema.prisma file provided
 
 ```bash
   npx prisma migrate dev --name init
