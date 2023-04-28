@@ -33,12 +33,6 @@ Install dependencies using NPM
   npm install
 ```
 
-or using Yarn
-
-```bash
-  yarn install
-```
-
 Create your .env file and add the Postgres Database URL config
 
 ```bash
