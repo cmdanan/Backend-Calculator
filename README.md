@@ -18,13 +18,13 @@ The backend server for the calculator app
 Clone the project
 
 ```bash
-  https://github.com/cmdanan/prpnestjs.git
+  https://github.com/cmdanan/Backend-Calculator.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd prpnestjs
+  cd Backend-Calculator
 ```
 
 Install dependencies using NPM
